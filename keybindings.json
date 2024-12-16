@@ -1,0 +1,4 @@
+[
+    { "key": "cmd+=", "command": "editor.action.fontZoomIn" },
+    { "key": "cmd+-", "command": "editor.action.fontZoomOut" }
+]
