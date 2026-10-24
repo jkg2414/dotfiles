@@ -40,15 +40,8 @@ defaults write com.apple.screencapture location ~/Pictures/Screenshots
 # To add option to disable developer searches in Spotlight
 touch /Applications/Xcode.app
 
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-
-brew install vim git fzf python3
-
-ln -s /Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code /usr/local/bin/code
+brew install zsh vim git fzf python3
 ```
-
-
-* iTerm
 
 See personal GitHub repos for these projects and download their releases:
 * AltTab
